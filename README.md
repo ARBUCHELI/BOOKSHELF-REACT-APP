@@ -1,6 +1,6 @@
 # BOOKSHELF-REACT-APP
 
-This is a Complete Front-End Web Development Project that combines the best and the most mainstream technologies used in Web Development
+This is a Complete Front-End Web Development Project that combines the best mainstream technologies used in Web Development
 at the moment:
 
 - JavaScript
