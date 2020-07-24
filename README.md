@@ -102,5 +102,5 @@ After this step you are going to see a screen like this on cmd:
 
 ![16](https://github.com/anferebu/BOOKSHELF-REACT-APP/blob/master/zoom5.jpg)
 
-# Author: Andrés R. Bucheli.
+## Author: Andrés R. Bucheli.
 
