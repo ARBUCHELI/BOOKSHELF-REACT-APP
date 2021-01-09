@@ -1,7 +1,7 @@
 # BOOKSHELF-REACT-APP
 
 This is a Complete Front-End Web Development Project that combines the best mainstream technologies used in Web Development
-at the moment: (Created as a part of my Google-Udacity challenge scholarship 2017-2018).
+at the moment: (Created as a part of Google-Udacity challenge scholarship 2017-2018).
 
 - JavaScript
 - HTML
@@ -25,7 +25,7 @@ The application consists of an interactive Bookshelf in which the user can inter
 
 ![1](https://github.com/anferebu/BOOKSHELF-REACT-APP/blob/master/Responsive.jpg)
 
-The user can interact with the app, using the Move to ... button which allows to send the books to different shelves.
+The user can interact with the app, using the Move to ... button which allows the user to send the books to different shelves.
 
 ![2](https://github.com/anferebu/BOOKSHELF-REACT-APP/blob/master/Changing%20shelf.jpg)
 
