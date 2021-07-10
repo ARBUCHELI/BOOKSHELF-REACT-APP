@@ -1,7 +1,7 @@
 # BOOKSHELF-REACT-APP
 
 This is a Complete Front-End Web Development Project that combines the best mainstream technologies used in Web Development
-at the moment: (Created as a part of Google-Udacity challenge scholarship 2017-2018).
+at the moment.
 
 - JavaScript
 - HTML
