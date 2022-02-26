@@ -6,7 +6,6 @@ at the moment.
 - JavaScript
 - HTML
 - CSS
-- jQuery
 - Node.js
 - Node Packet Manager (npm)
 - React
